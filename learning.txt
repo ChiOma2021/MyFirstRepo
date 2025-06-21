@@ -1,1 +1,1 @@
-What I have learned how to clone a GitHub repository and navigate it using Git Bash. This has helped me better understand version control.
+What I have learned from this course how to clone a GitHub repository and navigate it using Git Bash. This has helped me better understand version control.
